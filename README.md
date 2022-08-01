@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/joykara/profile-card-component-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -53,18 +53,11 @@ I'd like to develop my knowledge in CSS to as I'm still not completely comfortab
 
 ### Useful resources
 
-- [CSS tricks](https://www.example.com) - This helped me in learning more on Flexbox. I really liked this pattern and will use it going forward.
+- [CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me in learning more on Flexbox. I really liked this pattern and will use it going forward.
 
 
 ## Author
 
-- Website - [Joy Mwende Karani](https://www.your-site.com)
+- Website - [Joy Mwende Karani]
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
-
-
-## Acknowledgments
-
-I got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**

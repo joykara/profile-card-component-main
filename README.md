@@ -29,8 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL:(https://github.com/joykara/profile-card-component-main)
-- Live Site URL:(https://joykara.github.io/profile-card-component-main/)
+- Solution URL: [solution repository](https://github.com/joykara/profile-card-component-main)
+- Live Site URL: [live URL](https://joykara.github.io/profile-card-component-main/)
 
 ## My process
 
@@ -55,5 +55,5 @@ I'd like to develop my knowledge in CSS to as I'm still not completely comfortab
 ## Author
 
 - Website - [Joy Mwende Karani]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@joykara](https://www.frontendmentor.io/profile/joykara)
 
